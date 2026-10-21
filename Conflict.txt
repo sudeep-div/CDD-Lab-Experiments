@@ -1,1 +1,1 @@
-This line is from rebase-practice branch
+This conflict is resolved by combining changes from main and rebase-practice branches.
